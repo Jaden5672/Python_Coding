@@ -1,0 +1,13 @@
+import math
+a=pow(12,5)
+print(a)
+small=min(50,25,20,100)
+print(small)
+big=max(220,10,42,2492)
+print(big)
+x=math.sqrt(64)
+print(x)
+y=math.ceil(5.3)
+print(y)
+z=math.floor(5.3)
+print(z)

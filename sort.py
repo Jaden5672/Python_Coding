@@ -1,0 +1,17 @@
+digits=[5,1,4,0,100]
+digits.sort()
+print(digits)
+selectednumbers=[10,5,22,1,26]
+selectednumbers.sort(reverse=True)
+print(selectednumbers)
+colors=["Yellow","green","red","blue","Brown"]
+colors.sort()
+print(colors)
+names=["Sally","Sara","Sam","Susan"]
+names.sort(reverse=True)
+print(names)
+Fifthgrade=["Emily","Rahul","Celeste","Pooja"]
+Sixthgrade=Fifthgrade.copy()
+print(Sixthgrade)
+group1=list(Sixthgrade)
+print(group1)
